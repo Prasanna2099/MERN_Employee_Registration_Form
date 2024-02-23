@@ -217,7 +217,7 @@ function Home() {
         <hr />
         <br />
         <div className='text-white text-center p-5 bg-[#1a1a1a]'>
-          <h1 className='text-3xl'>EMPLOYEES</h1>
+          <h1 className='text-3xl'>EMPLOYEE DETAILS</h1>
           <div>
             {
               employees.map(employee =>
